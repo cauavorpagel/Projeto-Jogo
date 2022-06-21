@@ -2,7 +2,7 @@ from random import randint
 import pygame
 pygame.font.init()
 pygame.init #Iniciar aplicação
-
+ 
 x = 400
 y = 300
 pos_x = 200
